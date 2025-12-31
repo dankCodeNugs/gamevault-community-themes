@@ -6,7 +6,7 @@
     <!-- A version number you can use to update your theme -->
     <system:Int32 x:Key="Theme.Version">1</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
-    <system:String x:Key="Theme.Name">Ghostly Purple</system:String>
+    <system:String x:Key="Theme.Name">ThemeGhostlyPurpleDark</system:String>
     <!-- Ideally your GitHub Username -->
     <system:String x:Key="Theme.Author">OniDeity</system:String>
     <!-- Describe this theme -->
