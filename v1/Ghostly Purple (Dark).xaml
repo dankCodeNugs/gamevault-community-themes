@@ -12,7 +12,7 @@
     <!-- Describe this theme -->
     <system:String x:Key="Theme.Description">A ghostly dark purple theme</system:String>
     <!-- How the theme will be shown in UI -->
-    <system:String x:Key="Theme.DisplayName">Ghostly Purple</system:String>
+    <system:String x:Key="Theme.DisplayName">Ghostly Purple (Dark)</system:String>
 
     <!-- Text Color | On Realtime-Colors this is "Text" -->
     <Color x:Key="GameVault.Colors.Foreground">#FFFFFFFF</Color>
